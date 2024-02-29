@@ -59,10 +59,13 @@ Administración Eficiente de Plataformas de Automatización: Como administrador 
 \
 &nbsp;
 # Proyectos
-
 <div>
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" align="center" width="79%" />
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="19%" />
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="19%" />
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" align="center" width="79%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/fe32fb60-577b-4c05-98d3-f79a31af23e8" align="center" width="69%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="29%" />
+</div>
+
+&nbsp;
+<div>
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/4845c93c-e973-44b3-a28b-0c08a0cd1d12" align="center" width="69%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="29%" />
 </div>
