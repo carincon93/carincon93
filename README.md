@@ -16,7 +16,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=000&style=flat)
 ![Ionic Badge](https://img.shields.io/badge/Ionic-ffffff?logo=ionic&logoColor=000&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-ffffff?logo=figma&logoColor=000&style=flat)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML5 Badge](https://img.shields.io/badge/HTML5-ffffff?logo=html5&logoColor=000&style=flat)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML5 Badge](https://img.shields.io/badge/HTML5-ffffff?logo=html5&logoColor=000&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-ffffff?logo=css3&logoColor=000&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-ffffff?logo=postgresql&logoColor=000&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-ffffff?logo=mysql&logoColor=000&style=flat)
