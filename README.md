@@ -4,11 +4,11 @@
 \
 \
 &nbsp;&nbsp;&nbsp;![Asto Badge](https://img.shields.io/badge/Astro-ffffff?logo=astro&logoColor=000&style=flat)
-![Svelte Badge](https://img.shields.io/badge/Svelte-ffffff?logo=svelte&logoColor=000&style=flat)
+![NestJS Badge](https://img.shields.io/badge/NestJS-ffffff?logo=nestjs&logoColor=000&style=flat)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-ffffff?logo=laravel&logoColor=000&style=flat)
 ![React Badge](https://img.shields.io/badge/React-ffffff?logo=react&logoColor=000&style=flat)
-![NestJS Badge](https://img.shields.io/badge/NestJS-ffffff?logo=nestjs&logoColor=000&style=flat)
 ![Next.JS Badge](https://img.shields.io/badge/Next.JS-ffffff?logo=next.js&logoColor=000&style=flat)
+![Svelte Badge](https://img.shields.io/badge/Svelte-ffffff?logo=svelte&logoColor=000&style=flat)
 ![Vue.JS Badge](https://img.shields.io/badge/Vue.JS-ffffff?logo=vue.js&logoColor=000&style=flat)
 ![CI/CD Badge](https://img.shields.io/badge/CI/CD-ffffff?logo=github&logoColor=000&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-ffffff?logo=github&logoColor=000&style=flat)
