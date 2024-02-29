@@ -54,3 +54,15 @@ Optimización y Maximización de Conversiones: Implementé estrategias efectivas
 Desarrollo de Soluciones Web Personalizadas: Lideré el desarrollo y la implementación de soluciones web a medida para clientes, adaptándome a sus necesidades específicas y garantizando una experiencia de usuario óptima.
 
 Administración Eficiente de Plataformas de Automatización: Como administrador de plataformas de automatización de marketing, optimicé y mantuve SharpSpring para asegurar su rendimiento óptimo. Esto incluyó la configuración de flujos de trabajo automatizados, seguimiento de visitantes y análisis de datos para mejorar continuamente las estrategias de marketing digital de nuestros clientes.
+
+\
+\
+&nbsp;
+# Proyectos
+
+<div>
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" width="66%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" width="33%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" width="33%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" width="66%" />
+</div>
