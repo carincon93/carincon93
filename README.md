@@ -37,5 +37,10 @@
 \
 &nbsp;
 # Experiencia
-<img width="30" src="https://github.com/carincon93/carincon93/assets/18555989/8f664358-6881-49ab-952b-f1572e538d2a"> 2020-2023
+
+<img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/f35ac3ef-0c76-40bd-895b-e5895460dae3">
+2020-2023
+
+\
+Como resultado directo de esta implementación, la plataforma ha permitido la gestión eficiente de más de 3,450 proyectos de I+D+i, con más de 5,500 evaluaciones completadas hasta la fecha. Además, ha atraído a más de 9,300 usuarios registrados, lo que demuestra su impacto positivo en el ecosistema de innovación del SENA. Con la introducción de más de 20 módulos diseñados para abordar diversas necesidades y áreas de interés dentro del proceso de formulación y evaluación de proyectos, la accesibilidad y la efectividad del ecosistema de innovación dentro del SENA se han mejorado considerablemente. En resumen, mi contribución ha sido esencial para fortalecer y optimizar el Sistema de Innovación del SENA a nivel nacional.
 
