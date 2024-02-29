@@ -1,11 +1,10 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cristian Camilo Vasquez Rincón
+
+&nbsp;
 \
-\
-\
+&nbsp;
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desarrollador Web Fullstack
-\
-\
-\
+
 &nbsp;&nbsp;&nbsp;![Asto Badge](https://img.shields.io/badge/Astro-ffffff?logo=astro&logoColor=000&style=flat)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-ffffff?logo=nestjs&logoColor=000&style=flat)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-ffffff?logo=laravel&logoColor=000&style=flat)
@@ -28,4 +27,6 @@
 \
 \
 \
++5 años de experiencia como Desarrollador Web. He liderado la transformación digital en proyectos de envergadura que han dejado una huella significativa. Mi trayectoria se ha destacado especialmente en el ámbito de los sistemas de información, donde he sido arquitecto de soluciones para el Sistema de Innovación del SENA a nivel nacional. En esta travesía, mi misión ha sido impulsar la productividad y catalizar el mejoramiento de procesos internos en una institución emblemática.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Group 78 (1)](https://github.com/carincon93/carincon93/assets/18555989/70f992dd-33d3-4d71-becb-4bfef1dd9b9d)
