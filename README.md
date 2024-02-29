@@ -62,7 +62,7 @@ Administración Eficiente de Plataformas de Automatización: Como administrador 
 
 <div>
   <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" align="center" width="79%" />
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="20%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="19%" />
   <img src="https://github.com/carincon93/carincon93/assets/18555989/6f7bbcf2-60dc-47eb-9f14-9c69bb22acba" align="center" width="20vw" />
   <img src="https://github.com/carincon93/carincon93/assets/18555989/1196231e-3273-487d-bc37-6db880e87105" align="center" width="80vw" />
 </div>
