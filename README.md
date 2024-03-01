@@ -63,7 +63,9 @@ Administración Eficiente de Plataformas de Automatización: Como administrador 
 &nbsp;
 # Proyectos
 <div>
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/ed229591-a2d3-4b2b-8095-f04dd9bbfd6b" align="center" width="69%" />
+  <a href="https://github.com/carincon93/sgps-sipro-v3?tab=readme-ov-file#about-laravel">
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/ed229591-a2d3-4b2b-8095-f04dd9bbfd6b" align="center" width="69%" />
+  </a>
   <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" />
 </div>
 <div>
