@@ -28,12 +28,17 @@
 \
 \
 +5 años de experiencia como Desarrollador Web. He liderado la transformación digital en proyectos de envergadura que han dejado una huella significativa. Mi trayectoria se ha destacado especialmente en el ámbito de los sistemas de información, donde he sido arquitecto de soluciones para el Sistema de Innovación del SENA a nivel nacional. En esta travesía, mi misión ha sido impulsar la productividad y catalizar el mejoramiento de procesos internos en una institución emblemática.
+
+
 \
 \
 \
-<div align="center>
-![Group 78 (1)](https://github.com/carincon93/carincon93/assets/18555989/70f992dd-33d3-4d71-becb-4bfef1dd9b9d)
+
+<div align="center">
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/70f992dd-33d3-4d71-becb-4bfef1dd9b9d" />
 </div>
+
+
 \
 \
 \
