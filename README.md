@@ -40,8 +40,10 @@
 \
 &nbsp;
 # Experiencia
+![Group 79 (3)]()
 
-<img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/f35ac3ef-0c76-40bd-895b-e5895460dae3">
+
+<img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/d613c3c2-93d7-4f3c-a616-96689179e7c1">
 2020-2023 | Servicio Nacional de Aprendizaje SENA
 
 \
@@ -49,7 +51,7 @@ Como resultado directo de esta implementación, la plataforma ha permitido la ge
 
 \
 \
-<img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/f35ac3ef-0c76-40bd-895b-e5895460dae3">
+<img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/d613c3c2-93d7-4f3c-a616-96689179e7c1">
 2019-2020 | Zopp Agency
 
 Optimización y Maximización de Conversiones: Implementé estrategias efectivas utilizando SharpSpring para mejorar las tasas de conversión de los clientes, lo que resultó en un aumento significativo en los leads generados y en la rentabilidad general de las campañas de marketing.
