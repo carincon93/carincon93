@@ -42,7 +42,7 @@
 # Experiencia
 
 <img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/f35ac3ef-0c76-40bd-895b-e5895460dae3">
-2020-2023 Servicio Nacional de Aprendizaje SENA
+2020-2023 | Servicio Nacional de Aprendizaje SENA
 
 \
 Como resultado directo de esta implementación, la plataforma ha permitido la gestión eficiente de más de 3,450 proyectos de I+D+i, con más de 5,500 evaluaciones completadas hasta la fecha. Además, ha atraído a más de 9,300 usuarios registrados, lo que demuestra su impacto positivo en el ecosistema de innovación del SENA. Con la introducción de más de 20 módulos diseñados para abordar diversas necesidades y áreas de interés dentro del proceso de formulación y evaluación de proyectos, la accesibilidad y la efectividad del ecosistema de innovación dentro del SENA se han mejorado considerablemente. En resumen, mi contribución ha sido esencial para fortalecer y optimizar el Sistema de Innovación del SENA a nivel nacional.
@@ -50,7 +50,7 @@ Como resultado directo de esta implementación, la plataforma ha permitido la ge
 \
 \
 <img width="2" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/f35ac3ef-0c76-40bd-895b-e5895460dae3">
-2019-2020 Zopp Agency
+2019-2020 | Zopp Agency
 
 Optimización y Maximización de Conversiones: Implementé estrategias efectivas utilizando SharpSpring para mejorar las tasas de conversión de los clientes, lo que resultó en un aumento significativo en los leads generados y en la rentabilidad general de las campañas de marketing.
 
