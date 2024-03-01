@@ -70,7 +70,7 @@ Administración Eficiente de Plataformas de Automatización: Como administrador 
 </div>
 <div>
   <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" />
-  <a href="https://github.com/carincon93/Algoritmos-de-planificacion#%EF%B8%8F-stack">
+  <a href="https://github.com/carincon93/Algoritmos-de-planificacion?tab=readme-ov-file#%EF%B8%8F-stack">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/c25bb6ce-f849-4372-81ff-9bd68d2b0365" align="center" width="69%" />
   </a>
 </div>
