@@ -45,7 +45,7 @@
 2020-2023 | Servicio Nacional de Aprendizaje SENA
 
 \
-Como resultado directo de esta implementación, la plataforma ha permitido la gestión eficiente de más de 3,450 proyectos de I+D+i, con más de 5,500 evaluaciones completadas hasta la fecha. Además, ha atraído a más de 9,300 usuarios registrados, lo que demuestra su impacto positivo en el ecosistema de innovación del SENA. Con la introducción de más de 20 módulos diseñados para abordar diversas necesidades y áreas de interés dentro del proceso de formulación y evaluación de proyectos, la accesibilidad y la efectividad del ecosistema de innovación dentro del SENA se han mejorado considerablemente. En resumen, mi contribución ha sido esencial para fortalecer y optimizar el Sistema de Innovación del SENA a nivel nacional.
+Creación de la plataforma SGPS-SIPRO cuyo objetivo es la gestión eficiente en temas de formulación de más de 3,450 proyectos de I+D+i, con más de 5,500 evaluaciones completadas hasta la fecha. Además, ha atraído a más de 9,300 usuarios registrados, lo que demuestra su impacto positivo en el ecosistema de innovación del SENA. Con la introducción de más de 20 módulos diseñados para abordar diversas necesidades y áreas de interés dentro del proceso de formulación y evaluación de proyectos, la accesibilidad y la efectividad del ecosistema de innovación dentro del SENA se han mejorado considerablemente. En resumen, mi contribución ha sido esencial para fortalecer y optimizar el Sistema de Innovación del SENA a nivel nacional.
 
 \
 \
