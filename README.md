@@ -68,7 +68,7 @@ Clic en cada imagen para ir al detalle del proyecto
     <img src="https://github.com/carincon93/carincon93/assets/18555989/ed229591-a2d3-4b2b-8095-f04dd9bbfd6b" align="center" width="69%" />
   </a>
   <a href="https://github.com/carincon93/carTrackerApp" target="_blank">
-    <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" height="437.8px" />
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" />
   </a>
 </div>
 <div align="center">
