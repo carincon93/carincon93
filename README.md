@@ -46,12 +46,16 @@
 2020-2023 | Servicio Nacional de Aprendizaje SENA
 
 \
+Logros:
+
 Creación de la plataforma SGPS-SIPRO cuyo objetivo es la gestión eficiente en temas de formulación de más de 3,450 proyectos de I+D+i, con más de 5,500 evaluaciones completadas hasta la fecha. Además, ha atraído a más de 9,300 usuarios registrados, lo que demuestra su impacto positivo en el ecosistema de innovación del SENA. Con la introducción de más de 20 módulos diseñados para abordar diversas necesidades y áreas de interés dentro del proceso de formulación y evaluación de proyectos, la accesibilidad y la efectividad del ecosistema de innovación dentro del SENA se han mejorado considerablemente. En resumen, mi contribución ha sido esencial para fortalecer y optimizar el Sistema de Innovación del SENA a nivel nacional.
 
 \
 \
 <img height="50" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/d613c3c2-93d7-4f3c-a616-96689179e7c1">
 2019-2020 | Zopp Agency
+
+Logros:
 
 Optimización y Maximización de Conversiones: Implementé estrategias efectivas utilizando SharpSpring para mejorar las tasas de conversión de los clientes, lo que resultó en un aumento significativo en los leads generados y en la rentabilidad general de las campañas de marketing.
 
