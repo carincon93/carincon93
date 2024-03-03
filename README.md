@@ -33,7 +33,7 @@
 \
 &nbsp;
 <div align="center">
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/70f992dd-33d3-4d71-becb-4bfef1dd9b9d" width="200px" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/d2ed24e0-c4c6-411a-a26f-8ffb8b45cbc6" width="200px" />
 </div>
 
 
