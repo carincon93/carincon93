@@ -77,6 +77,6 @@ Clic en cada imagen para ir al detalle del proyecto
     <img src="https://github.com/carincon93/carincon93/assets/18555989/c25bb6ce-f849-4372-81ff-9bd68d2b0365" align="center" width="49%" />
   </a>
   <a href="https://github.com/carincon93/Algoritmos-de-planificacion" target="_blank">
-    <img src="https://github.com/carincon93/carincon93/assets/18555989/3596dad2-9e87-48a0-9c71-73732d23180b" align="center" width="49%" />
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/91cabb2b-76a9-4486-a1ff-2780a5d7d5f4" align="center" width="49%" />
   </a>
 </div>
