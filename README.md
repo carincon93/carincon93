@@ -71,7 +71,7 @@ Clic en cada imagen para ir al detalle del proyecto
 </div>
 <div align="center">
   <a href="https://github.com/carincon93/fitotecturaWebApp" target="_blank">
-    <img src="https://github.com/carincon93/carincon93/assets/18555989/2013b611-eab9-4dc7-8cca-f36093c1f6c6" align="center" width="98%" />
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/2013b611-eab9-4dc7-8cca-f36093c1f6c6" align="center" width="99%" />
   </a>
   <a href="https://github.com/carincon93/Algoritmos-de-planificacion" target="_blank">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/c25bb6ce-f849-4372-81ff-9bd68d2b0365" align="center" width="49%" />
