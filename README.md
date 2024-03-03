@@ -67,7 +67,9 @@ Clic en cada imagen para ir al detalle del proyecto
   <a href="https://github.com/carincon93/sgps-sipro" target="_blank">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/ed229591-a2d3-4b2b-8095-f04dd9bbfd6b" align="center" width="69%" />
   </a>
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" />
+  <a href="https://github.com/carincon93/carTrackerApp" target="_blank">
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/af6e9039-a20b-446a-9213-f871d96b3873" align="center" width="29%" />
+  </a>
 </div>
 <div align="center">
   <a href="https://github.com/carincon93/fitotecturaWebApp" target="_blank">
@@ -76,7 +78,7 @@ Clic en cada imagen para ir al detalle del proyecto
   <a href="https://github.com/carincon93/Algoritmos-de-planificacion" target="_blank">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/c25bb6ce-f849-4372-81ff-9bd68d2b0365" align="center" width="49%" />
   </a>
-  <a href="https://github.com/carincon93/Algoritmos-de-planificacion" target="_blank">
+  <a href="https://github.com/carincon93/https://github.com/carincon93/RREDSI-IBIS" target="_blank">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/91cabb2b-76a9-4486-a1ff-2780a5d7d5f4" align="center" width="49%" />
   </a>
 </div>
