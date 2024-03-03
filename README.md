@@ -62,6 +62,7 @@ Administración Eficiente de Plataformas de Automatización: Como administrador 
 \
 &nbsp;
 # Proyectos
+Clic en cada imagen para ir al detalle del proyecto
 <div align="center">
   <a href="https://github.com/carincon93/sgps-sipro" target="_blank">
     <img src="https://github.com/carincon93/carincon93/assets/18555989/ed229591-a2d3-4b2b-8095-f04dd9bbfd6b" align="center" width="69%" />
