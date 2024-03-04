@@ -1,11 +1,5 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572](https://github.com/carincon93/carincon93/assets/18555989/e5eaa9a2-414f-4413-a4e2-0e1e99a6a971)
 
-
-&nbsp;
-\
-&nbsp;
-## Desarrollador Web Fullstack
-
 ![Asto Badge](https://img.shields.io/badge/Astro-ffffff?logo=astro&logoColor=000&style=flat)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-ffffff?logo=nestjs&logoColor=000&style=flat)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-ffffff?logo=laravel&logoColor=000&style=flat)
