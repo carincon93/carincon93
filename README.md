@@ -33,7 +33,9 @@
 \
 &nbsp;
 <div align="center">
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/3d5425e9-e89d-4821-8108-e2329adef684" width="200px" />
+  <a href="https://github.com/carincon93/carincon93/blob/main/Profile-Cristian_Camilo_Vasquez.pdf" target="_blank">
+    <img src="https://github.com/carincon93/carincon93/assets/18555989/3d5425e9-e89d-4821-8108-e2329adef684" width="200px" />
+  </a>
 </div>
 
 
