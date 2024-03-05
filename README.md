@@ -1,7 +1,7 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572](https://github.com/carincon93/carincon93/assets/18555989/5510a8cc-ecd9-4e1f-bc5c-b4677dac1692)
 
 <div align="center">
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/8bf7f3b1-5e9e-4217-9bb5-d6b35ae32d7c" width="15%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/8bf7f3b1-5e9e-4217-9bb5-d6b35ae32d7c" width="20%" />
 </div> 
 
 <div align="center">
