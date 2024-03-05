@@ -54,6 +54,7 @@
 
 <img height="50" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/d613c3c2-93d7-4f3c-a616-96689179e7c1">
 2020-2023 | Servicio Nacional de Aprendizaje SENA
+| Desarrollador Web Fullstack
 
 \
 Logros:
@@ -64,6 +65,7 @@ Creación de la plataforma SGPS-SIPRO cuyo objetivo es la gestión eficiente en 
 \
 <img height="50" alt="Group 79 (2)" src="https://github.com/carincon93/carincon93/assets/18555989/d613c3c2-93d7-4f3c-a616-96689179e7c1">
 2019-2020 | Zopp Agency
+| Administrador Sistema de Información SharpSpring
 
 Logros:
 
