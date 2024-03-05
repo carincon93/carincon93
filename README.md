@@ -7,9 +7,7 @@
 
 \
 \
-\
 &nbsp;
-
 
 <div align="center">
   
