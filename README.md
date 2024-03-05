@@ -2,7 +2,7 @@
 \
 &nbsp;
 <div align="center">
-  <img src="https://github.com/carincon93/carincon93/assets/18555989/8bf7f3b1-5e9e-4217-9bb5-d6b35ae32d7c" width="20%" />
+  <img src="https://github.com/carincon93/carincon93/assets/18555989/8bf7f3b1-5e9e-4217-9bb5-d6b35ae32d7c" width="25%" />
 </div>
 
 \
