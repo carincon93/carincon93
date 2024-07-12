@@ -30,7 +30,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-ffffff?logo=mysql&logoColor=000&style=flat)
 ![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-ffffff?logo=tailwindcss&logoColor=000&style=flat)
 ![Design Systems Badge](https://img.shields.io/badge/Design%20Systems-ffffff?logo=designsystems&logoColor=000&style=flat)
-![Three.js Badge](https://img.shields.io/badge/three.js-ffffff?logo=three.js&logoColor=000&style=flat)
+![Three.js Badge](https://img.shields.io/badge/Three.js-ffffff?logo=three.js&logoColor=000&style=flat)
 
 
 </div>
