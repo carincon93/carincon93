@@ -21,7 +21,7 @@
 ![CI/CD Badge](https://img.shields.io/badge/CI/CD-ffffff?logo=github&logoColor=000&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-ffffff?logo=github&logoColor=000&style=flat)
 ![Docker Badge](https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=000&style=flat)
-![Ionic Badge](https://img.shields.io/badge/Ionic-ffffff?logo=ionic&logoColor=000&style=flat)
+![React Native Badge](https://img.shields.io/badge/ReactNative-ffffff?style=for-the-badge&logo=React&logoColor=000&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-ffffff?logo=figma&logoColor=000&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-ffffff?logo=html5&logoColor=000&style=flat)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&logoColor=000&style=flat)
